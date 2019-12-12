@@ -1,0 +1,5 @@
+aimbot=1
+triggerbot=1
+crosshair=ok
+esp=1
+money=999999
